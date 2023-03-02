@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/Yab1/product-preview-card-component)
-- Live Site URL: ()
+- Live Site URL: (https://yab1.github.io/product-preview-card-component/)
 
 ### Built with
 
